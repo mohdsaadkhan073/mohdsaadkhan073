@@ -100,9 +100,9 @@ A DNS security project focused on detecting and protecting against malicious DNS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohdsaadkhan073&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/>
+<img src="./profile/stats.svg" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaadkhan073&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/>
+<img src="./profile/top-langs.svg" height="170"/>
 
 <br><br>
 
