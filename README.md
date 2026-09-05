@@ -100,13 +100,13 @@ A DNS security project focused on detecting and protecting against malicious DNS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohdsaadkhan073&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaadkhan073&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=00000000" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=mohdsaadkhan073&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
